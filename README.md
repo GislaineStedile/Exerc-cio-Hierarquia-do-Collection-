@@ -53,8 +53,6 @@ Crie uma classe chamada "LivrariaOnline" que representa uma livraria online. Ess
 - `removerLivro(String titulo)`: Remove um livro da livraria, dado o titulo do livro.
 - `exibirLivrosOrdenadosPorPreco()`: Exibe os livros da livraria em ordem crescente de preço.
 - `pesquisarLivrosPorAutor(String autor)`: Retorna uma lista de todos os livros escritos por um determinado autor.
-- `obterLivroMaisCaro()`: Retorna o livro mais caro disponível na livraria.
-- `exibirLivroMaisBarato()`: Retorna o livro mais barato disponível na livraria.
 
   ## Set
   
